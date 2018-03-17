@@ -104,7 +104,7 @@ groups['Root']:add_rank{
     name='Community Manager',
     short_hand='Com Mngr',
     tag='[Com Mngr]',
-    colour={r=150,g=68,b=161},
+    colour={r=255,g=0,b=255},
     is_admin = true,
     max_afk_time=false
 }
